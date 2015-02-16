@@ -1,1 +1,1 @@
-go-syslogd is a syslog to Kafka bridge.
+syslog-collector sends syslog messages to Kafka.
